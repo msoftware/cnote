@@ -16,12 +16,13 @@ ALTER TABLE `contents` ADD PRIMARY KEY (`crc`);
 ```
 
 ## And edit php/config.php. 
-
+```php
 define("BASEHOST", "cnote.1br.de");
 define("BASEURL", "/");
 define("DBNAME", "[MY DBNAME]");
 define("DBUSER", "[MY USER]");
 define("DBPASS", "[MY PASSWORD]");
+```
 
 ## Demo
 
