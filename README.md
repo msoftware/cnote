@@ -1,5 +1,16 @@
-# cnote
+# This is cnote 0.1.0
+
 Cnote is a simple wysiwyg html editor with cloud storage.
+
+You can write or edit without any permissions. Select any possible URL in cnote.
+
+Cnote will save your contents automaicaly in the cnote cloud. Select the url you like and start writing,
+
+[For Example] (http://cnote.1br.de/mypictures)
+
+You want to share your contents with other people? Just copy the link from your browser and send or share with anyone.
+
+You want to host your own cnote instance? You can fork cnote on GitHub.
 
 # Setup
 
