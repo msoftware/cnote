@@ -26,4 +26,4 @@ define("DBPASS", "[MY PASSWORD]");
 
 ## Demo
 
-[Cnote demo](https://cnote.1br.de)
+[Cnote demo](http://cnote.1br.de)
