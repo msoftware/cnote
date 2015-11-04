@@ -49,4 +49,3 @@ MySQL 4.1.0 or higher
 * Delete note immediately 
 * Delete note time-controlled
 * Passwort protection for notes
-* 
