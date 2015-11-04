@@ -38,3 +38,15 @@ define("DBPASS", "[MY PASSWORD]");
 ## Demo
 
 [Cnote demo](http://cnote.1br.de)
+
+## Requirements
+
+PHP 4.1.0 or higher
+MySQL 4.1.0 or higher
+
+## Roadmap
+
+* Delete note immediately 
+* Delete note time-controlled
+* Passwort protection for notes
+* 
